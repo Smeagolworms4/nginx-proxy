@@ -77,7 +77,7 @@ jobs:
         with:
           builder: ${{ steps.buildx.outputs.name }}
           context: .
-          file: ./docker/Dockerfile.browser
+          file: ./Dockerfile
           platforms: linux/amd64,linux/arm/v6,linux/arm/v7,linux/arm64/v8
           push: true
           tags: ${{ steps.prep.outputs.tags }}
