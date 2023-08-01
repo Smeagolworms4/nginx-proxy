@@ -1,6 +1,6 @@
 # Docker nginx proxy
 
-[![pipeline status](https://github.com/Smeagolworms4/MQTT-Explorer/actions/workflows/build_images.yml/badge.svg)](https://github.com/Smeagolworms4/MQTT-Explorer/actions/workflows/build_images.yml)
+[![pipeline status](https://github.com/Smeagolworms4/nginx-proxy/actions/workflows/build_images.yml/badge.svg)](https://github.com/Smeagolworms4/nginx-proxy/actions/workflows/build_images.yml)
 
 Nginx proxy by environment variables
 
